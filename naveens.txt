@@ -6,3 +6,4 @@ products
 price
 add by products in the branch
 customers paid or unpaid
+place?
